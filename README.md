@@ -1,2 +1,3 @@
 # FSAD-Assignment-1
-assignment description in pdf
+a GUI application based on the idea of a student capturing system.
+full assignment description in pdf
